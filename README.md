@@ -7,7 +7,7 @@
 #### :bar_chart: **Shticell - Dynamic Spreadsheet Application** ([click here to see](https://github.com/YaelYakobovich007/Shticell-SpreadSheets))
 A JavaFX-based spreadsheet application that supports real-time updates, custom design features, and version control. Include: Multi-user editing with configurable view/edit permissions, including real-time updates.
 * Server: Managed by Apache Tomcat.
-* Client: Built in Java and JavaFX, using HTTPClient for server communication.
+* Client: Built in Java and JavaFX, using OKHttp for server communication.
 
 #### :memo: **Memory Card Game** ([click here to see](https://github.com/YaelYakobovich007/Object-Oriented-Programming-C-Sharp-Academic-Course/tree/master/Memory_Card_Game))
 A console-based memory card game with both human vs human and human vs AI gameplay options.
